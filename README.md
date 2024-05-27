@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @khanafzu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🌱 I’m currently brushing up my skills and learning HTML,CSS,Bootstrap, React,JavaScript,Mysql and FrontEnd technologies..
 
-<!---
-khanafzu/khanafzu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💬 Ask me about Html, CSS, JavaScript, mySQL
+
+📫 How to reach me afzalkhan.ald@gmail.com
+
+⚡ Fun fact I love Travelling .⛰️.
+
+ 
