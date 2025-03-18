@@ -1,9 +1,9 @@
-🌱 I’m currently brushing up my skills and learning HTML,CSS,Bootstrap, React,JavaScript,Mysql and FrontEnd technologies..
+🌱 I’m a B.Tech graduate in Computer Science & Engineering, specializing in MERN stack development. Currently enhancing my skills in HTML, CSS, Bootstrap, React, JavaScript, MySQL, and frontend technologies.
 
-💬 Ask me about Html, CSS, JavaScript, mySQL
+💻 Experienced in building web applications, including projects like energiAI (Watt Prediction) for both web and mobile.
 
-📫 How to reach me afzalkhan.ald@gmail.com
+💬 Ask me about HTML, CSS, JavaScript, React, MySQL, and frontend best practices.
 
-⚡ Fun fact I love Travelling .⛰️.
+📫 How to reach me: afzalkhan.ald@gmail.com
 
- 
+⚡ Fun fact: I love traveling ⛰️
